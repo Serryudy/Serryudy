@@ -12,24 +12,52 @@
 <p align="center">
   <img src="https://github.com/Serryudy/Serryudy/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Vector DB](https://img.shields.io/badge/Vector%20Database-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Intelligent%20Retrieval-00FF41?style=for-the-badge)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+---
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+## ▌AI SYSTEMS STACK
 
-![Profile Views](https://komarev.com/ghpvc/?username=Serryudy&color=00ff41)
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Vector%20Database-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Intelligent%20Retrieval-00FF41?style=for-the-badge" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Serryudy&theme=github-dark)
+---
+
+## ▌BACKEND ENGINEERING
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST-API-0A0A0A?style=for-the-badge" />
+</p>
+
+---
+
+## ▌CLOUD & SYSTEMS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+</p>
+
+---
+
+## ▌LIVE METRICS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Serryudy&color=00ff41" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serryudy&theme=github-dark" />
+</p>
+
 ---
 
 ## ▌SYSTEM PROFILE
