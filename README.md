@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=Building+LLM+Systems;RAG+Architectures;Cloud-Deployed+AI;Scalable+Backends;Code.+Deploy.+Optimize." />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Serryudy/Serryudy/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## ▌SYSTEM PROFILE
