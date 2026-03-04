@@ -29,7 +29,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Serryudy&color=00ff41)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Serrudy&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Serryudy&theme=github-dark)
 ---
 
 ## ▌SYSTEM PROFILE
